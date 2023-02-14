@@ -3,3 +3,12 @@ body{
     font-family: "Arial";
     color: deeppink;
 }
+#container1{
+    text-align: left;
+    width: 70%;
+    padding: 1em;
+    font-family: "Verdana";
+    color: black;
+    border: 1px solid #ddd;
+    margin: auto;
+}
