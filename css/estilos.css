@@ -2,6 +2,7 @@ body{
     text-align: center;
     font-family: "Verdana";
     color: green;
+    background-color: #BDBDBD;
 }
 #container1{
     text-align: left;
@@ -11,6 +12,7 @@ body{
     color: black;
     border: 1px solid #ddd;
     margin: auto;
+    background-color: white;
 }
 #cabecera{
     background: #33A;
@@ -24,4 +26,14 @@ body{
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+}
+#container2{
+    text-align: center;
+    font-family: Arial;
+    background-color: grey;
+    color: wheat;
+    padding: 2em;
+    width: 70%;
+    margin: auto;
+    border: 5px solid #ddd;
 }
